@@ -17,7 +17,7 @@
 
 ## 🌐 Tech Stack
 
-- **Languages:** Python, PHP, HTML, CSS, JavaScript, SQL  
+- **Languages:** Python, Java , PHP, HTML, CSS, JavaScript, SQL  
 - **Frameworks/Libraries:** Scikit-learn, Pandas, NumPy  
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, VS Code  
