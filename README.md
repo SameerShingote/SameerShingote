@@ -29,6 +29,7 @@
 - 🔗 LinkedIn : " https://www.linkedin.com/in/sameer-shingote-260185323 "
 - 📧 Email: sameershingote1@gmail.com
 - 🌱 Currently learning: Cloud technologies & system design
+- 📁 certificates: https://drive.google.com/folderview?id=1InHT__Go8JQVI2Q7flcIORTf1jh8fL-s
 
 
 ---
